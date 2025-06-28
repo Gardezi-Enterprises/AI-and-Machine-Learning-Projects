@@ -1,4 +1,4 @@
-# AI-Based Applications for Natural Language Understanding and Information Extraction
+# AI-Based Application for Natural Language Understanding and Information Extraction
 
 This repository contains two AI-based application focused on natural language understanding and information extraction:
 
